@@ -1,0 +1,14 @@
+SublimeLinter-contrib-xtendlint
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to xtendlint.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/staltz/SublimeLinter-contrib-xtendlint
+
+** Sharing gratitude **
+If this plugin was useful to you, please consider donating something! 
+https://www.gittip.com/staltz/
